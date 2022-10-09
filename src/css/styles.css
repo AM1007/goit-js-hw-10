@@ -21,13 +21,14 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+  border: 1px solid grey;
   border-radius: 4px;
 }
 
 #search-box:hover,
 :focus {
-  border: 1px solid rgb(118, 151, 202);
-  outline: 1px solid rgb(47, 80, 131);
+  border: 1px solid rgb(47, 80, 131);
+  outline: 1px solid rgb(118, 151, 202);
 }
 
 .country-list {
